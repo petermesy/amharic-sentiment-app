@@ -1,1 +1,0 @@
-# amharic-sentiment-app
